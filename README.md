@@ -1,4 +1,4 @@
-# InRoute Helper: Source Code Acquisition
+# InRoute Helper: Naurok helper
 ![InRoute Banner](./assets/banner.png)
 <br>
 [English](#english) | [Українська](#ukrainian) | [Русский](#russian)| [Media Gallery](./GALLERY.md)
@@ -12,7 +12,7 @@
 InRoute Helper is a professional browser extension designed for the naurok.com.ua platform. It automates question parsing and integrates with LLM APIs to provide rapid solutions while maintaining an undetectable presence on the target site.
 
 ### Commercial Terms
-* **Asset:** Full Source Code (Node.js / JavaScript).
+* **Asset:** Full Source Code (HTML/CSS/JavaScript).
 * **Price:** $20.00 USD (One-time payment).
 * **Access:** Perpetual (Lifetime).
 * **License:** Grant of rights to modify, rebrand, and distribute derived versions.
@@ -39,7 +39,7 @@ InRoute Helper is a professional browser extension designed for the naurok.com.u
 InRoute Helper — це спеціалізоване розширення для браузера, розроблене для платформи naurok.com.ua. Воно автоматизує парсинг запитань та інтегрується з API нейромереж для отримання швидких відповідей.
 
 ### Умови придбання
-* **Об'єкт:** Повний вихідний код (Node.js / JavaScript).
+* **Об'єкт:** Повний вихідний код (HTML/CSS/JavaScript).
 * **Вартість:** 20$ USD (Одноразовий платіж).
 * **Термін дії:** Безстроковий доступ.
 * **Ліцензія:** Права на модифікацію, ребрендинг та розповсюдження похідних версій продукту.
@@ -62,7 +62,7 @@ InRoute Helper — це спеціалізоване розширення для
 InRoute Helper — специализированное расширение для браузера, предназначенное для платформы naurok.com.ua. Автоматизирует сбор данных вопросов и взаимодействует с API языковых моделей для мгновенного получения ответов.
 
 ### Условия приобретения
-* **Объект:** Полный исходный код (Node.js / JavaScript).
+* **Объект:** Полный исходный код (HTML/CSS/JavaScript).
 * **Цена:** 20$ USD (Единоразово).
 * **Права:** Покупатель получает право на неограниченную модификацию, изменение дизайна и перепродажу производных программных продуктов.
 
