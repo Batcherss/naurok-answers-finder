@@ -1,20 +1,19 @@
 # InRoute Helper: Media Gallery
 
-### Screenshots
+### Visual Overview
+A compilation of interface screenshots and operational demonstrations.
+
 | | |
 |---|---|
 | ![Interface View 1](./assets/screen1.png) | ![Interface View 2](./assets/screen2.png) |
-| ![Operation 1](./assets/screen3.png) | ![Operation 2](./assets/screen4.png) |
+| ![Operational Status](./assets/screen3.png) | ![Live Process (GIF)](./assets/screen4.gif) |
 
 ---
 
-### Video Demonstration
-Below is a demonstration of the extension in a live environment.
+### Full Operational Demonstration
+The following animation demonstrates the extension's lifecycle: code injection, VLM-based analysis, and the time-bypass mechanism in a live test environment.
 
-<video src="./assets/demo.mp4" width="800" controls>
-  Your browser does not support the video tag. 
-  [Download Video](./assets/demo.mp4)
-</video>
+![Full Extension Walkthrough (GIF)](./assets/demo.gif)
 
 ---
 [Return to Main Page](./README.md)
