@@ -1,7 +1,7 @@
 # InRoute Helper: Media Gallery
 
-### Visual Overview
-A compilation of interface screenshots and operational demonstrations.
+### Визуальный обзор
+Подборка скриншотов интерфейса и демонстраций работы.
 
 | | |
 |---|---|
@@ -10,8 +10,8 @@ A compilation of interface screenshots and operational demonstrations.
 
 ---
 
-### Full Operational Demonstration
-The following animation demonstrates the extension's lifecycle: code injection, VLM-based analysis, and the time-bypass mechanism in a live test environment.
+### Полная демонстрация работы
+Следующая анимация демонстрирует жизненный цикл расширения: внедрение кода, анализ на основе VLM и механизм обхода временных ограничений в рабочей тестовой среде.
 
 ![Full Extension Walkthrough (GIF)](./assets/demo.gif)
 
