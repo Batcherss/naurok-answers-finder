@@ -1,4 +1,7 @@
 # InRoute Helper — Naurok Helper
+<img src="./assets/banner.png" width="480"/>
+InRoute Helper - Помічник, за допомогою якого можна з легкістю проходити завдання.
+Все для студентів.
 
 Язык / Мова: [Русский](./README.md) | **Українська**
 
