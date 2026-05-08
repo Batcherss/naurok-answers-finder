@@ -5,8 +5,7 @@
 
 | | |
 |---|---|
-| ![Interface View 1](./assets/screen1.png) | ![Interface View 2](./assets/screen2.png) |
-| ![Operational Status](./assets/screen3.png) | ![Live Process (GIF)](./assets/screen4.gif) |
+| ![Interface View 1](./assets/screen1.png) | ![Interface View 2](./assets/screen2.png) ||
 
 ---
 
