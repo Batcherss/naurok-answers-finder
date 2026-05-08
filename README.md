@@ -1,12 +1,11 @@
 # InRoute Helper - Naurok Helper
 <img src="./assets/banner.png" width="480"/>
 InRoute Helper - Помощник с помощью которого можно с легкостью проходить задания. 
-Всё для студентов.
 [Галерея](./GALLERY.md)
+Всё для студентов.
 Язык / Мова: **Русский** | [Українська](./README_UA.md)
 
 ---
-
 ### Функционал
 
 <img src="./assets/functions.jpg" width="480"/>
